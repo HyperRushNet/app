@@ -1,10 +1,11 @@
 const CACHE_NAME = 'offline-cache-v1';
 const URLsToCache = [
-  '/',
+  '/favicon.ico',
   '/index.html',
+  '/start.html',
   '/manifest.json',
   '/service-worker.js',
-  'https://hyperrushnet.github.io/ift',
+  'https://hyperrushnet.github.io/start.html',
   'https://cdn.glitch.global/9f0d898a-f212-4456-a044-c8849a98f902/thumbnails%2FTheHyperLogo%20(1).png?1737233725726',
   // Voeg eventueel andere statische bestanden toe die je wilt cachen
 ];
