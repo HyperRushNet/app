@@ -4,7 +4,7 @@ const URLsToCache = [
   '/index.html',
   '/manifest.json',
   '/service-worker.js',
-  'https://hyperrushnet.github.io/',
+  'https://hyperrushnet.github.io/ift',
   'https://cdn.glitch.global/9f0d898a-f212-4456-a044-c8849a98f902/thumbnails%2FTheHyperLogo%20(1).png?1737233725726',
   // Voeg eventueel andere statische bestanden toe die je wilt cachen
 ];
