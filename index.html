@@ -50,8 +50,8 @@
     let deferredPrompt;
     const installBtn = document.querySelector('.installBtn');
 
-    // Controleer of de web app al in standalone modus draait
-    if (window.matchMedia('(display-mode: standalone)').matches) {
+    // Controleer of de web app al in fullscreen modus draait
+    if (window.matchMedia('(display-mode: fullscreen)').matches) {
       installBtn.style.display = 'none'; // Verberg de knop als de app al geïnstalleerd is
     }
 
