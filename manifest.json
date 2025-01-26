@@ -9,7 +9,7 @@
     }
   ],
   "start_url": "https://hyperrushnet.github.io/ift",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#000000",
   "theme_color": "#000000"
 }
